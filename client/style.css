@@ -1,0 +1,96 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 700px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('background.jpeg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20px;
+    color: #fff;
+}
+
+#navbar{
+    background-color: darkgreen;
+}
+
+
+
+#title h1{
+    padding-top: 200px;
+    padding-bottom: 0;
+    font-size: 55px;
+    text-align: center;
+}
+
+#title p{
+    margin: 18px 0;
+    text-align: center;
+}
+
+
+/* Destination */
+.destination{
+    padding: 100px 0;
+}
+
+.destination h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+#inputName{
+    width: 200px;
+}
+
+#upload .form-control{
+    display: inline-block;
+}
+
+
+.btn-success{
+    width: 200px;
+    margin: auto;
+}
+
+
+.hidden{
+    display: none;
+}
+
+#places-list{
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.title{
+    margin-top: 10px;
+    text-align: center;
+}
+.border{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 30px 50px 30px 50px;
+    border-radius: 10px;
+}
+
+#usercomments{
+    margin-bottom: 20px;
+}
+
+.thing h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+/* Share Ideas */
+.btn-primary {
+    font-size: large;
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
