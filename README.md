@@ -26,5 +26,5 @@ The clients can upload their travel destination ideas(including the city name, c
 
 
 ## Contact
-Please contact my manager Jug :)
+Please contact my manager Jug the dog :)
 :) Thank you for trying my website, have a nice day ~~~
