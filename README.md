@@ -1,6 +1,5 @@
-# server-side-programming-assignment
 # Ready Next Travel Website
-> Ready Next Travel Website is a website providing travel destination ideas.
+> Ready Next Travel Website is a website providing travel destination ideas. This is an assignment for Durham Univeristy Programming Gold coursework in my first year
 
 ## Table of contents
 * General info
@@ -25,6 +24,4 @@ The clients can upload their travel destination ideas(including the city name, c
 5. open a browser, type `localhost:8080` in the url space (and the server start, yayyyy!)
 
 
-## Contact
-Please contact my manager Jug the dog :)
 :) Thank you for trying my website, have a nice day ~~~
