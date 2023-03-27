@@ -1,11 +1,6 @@
 # Ready Next Travel Website
 > Ready Next Travel Website is a website providing travel destination ideas. This is an assignment for Durham Univeristy Programming Gold coursework in my first year
 
-## Table of contents
-* General info
-* Technologies
-* Setup
-* Contact
 
 ## General info
 The clients can upload their travel destination ideas(including the city name, city summary, city photo and the attractions in the city) as well as leave a comment for the existing attraction ideas.
